@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2023.10.26)  21 JAN 2025 17:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2023.10.26)  21 JAN 2025 22:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -402,6 +402,10 @@ Package pdftex.def Info: ../images/piechart_valeurs_manquantes_var_categorial_dr
 (pdftex.def)             Requested size: 452.9679pt x 154.99773pt.
  [7 <../images/piechart_valeurs_manquantes_var_categorial_dropna.png>]
 Chapitre 4.
+File: ../images/piechart_valeurs_manquantes_var_categorial_dropna.png Graphic file (type png)
+<use ../images/piechart_valeurs_manquantes_var_categorial_dropna.png>
+Package pdftex.def Info: ../images/piechart_valeurs_manquantes_var_categorial_dropna.png  used on input line 130.
+(pdftex.def)             Requested size: 452.9679pt x 154.99773pt.
 [8
 
 ]
@@ -413,7 +417,7 @@ Chapitre 6.
 [10
 
 ]
-LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 149.
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 156.
  (C:\Users\lngeth\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.fd
 File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 ) [11
@@ -431,17 +435,17 @@ Package rerunfilecheck Info: File `rapport.out' has not changed.
 (rerunfilecheck)             Checksum: 4D48ED321DEAEB334DC1D9EFE93B9176;3868.
  ) 
 Here is how much of TeX's memory you used:
- 11050 strings out of 475248
- 177904 string characters out of 5757340
+ 11052 strings out of 475248
+ 177920 string characters out of 5757340
  1925785 words of memory out of 5000000
- 32400 multiletter control sequences out of 15000+600000
+ 32401 multiletter control sequences out of 15000+600000
  571114 words of font info for 61 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,6n,79p,481b,464s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\lngeth\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1200.pk> <C:\Users\lngeth\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1200.pk> <C:\Users\lngeth\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\lngeth\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\eccc1200.pk> <C:\Users\lngeth\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1728.pk> <C:\Users\lngeth\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\lngeth\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\lngeth\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk> <C:\Users\lngeth\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\lngeth\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2074.pk>
-Output written on rapport.pdf (13 pages, 415494 bytes).
+Output written on rapport.pdf (13 pages, 416188 bytes).
 PDF statistics:
- 550 PDF objects out of 1000 (max. 8388607)
- 46 named destinations out of 1000 (max. 500000)
+ 552 PDF objects out of 1000 (max. 8388607)
+ 47 named destinations out of 1000 (max. 500000)
  194 words of extra memory for PDF output out of 10000 (max. 10000000)
 
