@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2023.10.26)  21 JAN 2025 22:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2023.10.26)  22 JAN 2025 23:52
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -224,56 +224,95 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layouthoffset=\dimen163
 \Gm@layoutvoffset=\dimen164
 \Gm@dimlist=\toks21
- (C:\Users\lngeth\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\lngeth\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+ (C:\Users\lngeth\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\lngeth\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
+ (C:\Users\lngeth\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+ (C:\Users\lngeth\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
+Package xcolor Info: Model `RGB' extended on input line 1369.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+) (C:\Users\lngeth\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count284
+\float@exts=\toks22
+\float@box=\box51
+\@float@everytoks=\toks23
+\@floatcapt=\box52
+) (C:\Users\lngeth\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
+\col@sep=\dimen165
+\ar@mcellbox=\box53
+\extrarowheight=\dimen166
+\NC@list=\toks24
+\extratabsurround=\skip51
+\backup@length=\skip52
+\ar@cellbox=\box54
+) (C:\Users\lngeth\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count284
-\l__pdf_internal_box=\box51
+\l__color_backend_stack_int=\count285
+\l__pdf_internal_box=\box55
 ) (rapport.aux (C:\Users\lngeth\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/fr\babel-french.tex
 Package babel Info: Importing font and identification data for french
 (babel)             from babel-fr.ini. Reported on input line 11.
-))
+)
+
+LaTeX Warning: Label `fig:tab_vif_num_num' multiply defined.
+
+
+LaTeX Warning: Label `fig:table_khi2_reason_vs_job' multiply defined.
+
+)
 \openout1 = `rapport.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Info: Redefining \degres on input line 23.
-LaTeX Info: Redefining \up on input line 23.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Info: Redefining \degres on input line 26.
+LaTeX Info: Redefining \up on input line 26.
  (C:\Users\lngeth\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count285
-\scratchdimen=\dimen165
-\scratchbox=\box52
-\nofMPsegments=\count286
-\nofMParguments=\count287
-\everyMPshowfont=\toks22
-\MPscratchCnt=\count288
-\MPscratchDim=\dimen166
-\MPnumerator=\count289
-\makeMPintoPDFobject=\count290
-\everyMPtoPDFconversion=\toks23
+\scratchcounter=\count286
+\scratchdimen=\dimen167
+\scratchbox=\box56
+\nofMPsegments=\count287
+\nofMParguments=\count288
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count289
+\MPscratchDim=\dimen168
+\MPnumerator=\count290
+\makeMPintoPDFobject=\count291
+\everyMPtoPDFconversion=\toks26
 ) (C:\Users\lngeth\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
  (C:\Users\lngeth\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring OFF on input line 23.
+Package hyperref Info: Link coloring OFF on input line 26.
  (rapport.out) (rapport.out)
 \@outlinefile=\write3
 \openout3 = `rapport.out'.
@@ -313,17 +352,17 @@ Package hyperref Info: Link coloring OFF on input line 23.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-<../images/logo-univ-evry.png, id=87, 301.125pt x 150.5625pt>
+<../images/logo-univ-evry.png, id=135, 301.125pt x 150.5625pt>
 File: ../images/logo-univ-evry.png Graphic file (type png)
 <use ../images/logo-univ-evry.png>
-Package pdftex.def Info: ../images/logo-univ-evry.png  used on input line 27.
+Package pdftex.def Info: ../images/logo-univ-evry.png  used on input line 30.
 (pdftex.def)             Requested size: 284.52756pt x 142.27771pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 27.
+(Font)              <14.4> on input line 30.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 27.
+(Font)              <7> on input line 30.
 
-Overfull \hbox (41.80594pt too wide) in paragraph at lines 27--27
+Overfull \hbox (41.80594pt too wide) in paragraph at lines 30--30
  [][] 
  []
 
@@ -344,7 +383,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.30 \newpage
+l.33 \newpage
               [1
 
 ]
@@ -353,99 +392,355 @@ Chapitre 1.
 
 ]
 Chapitre 2.
-<../images/target_distribution.png, id=130, 324.4923pt x 339.669pt>
+<../images/target_distribution.png, id=189, 324.4923pt x 339.669pt>
 File: ../images/target_distribution.png Graphic file (type png)
 <use ../images/target_distribution.png>
-Package pdftex.def Info: ../images/target_distribution.png  used on input line 48.
+Package pdftex.def Info: ../images/target_distribution.png  used on input line 76.
 (pdftex.def)             Requested size: 226.48395pt x 237.07735pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--89
+
+ []
+
 [3
 
- <../images/target_distribution.png>]
-<../images/boxplot_var_num.png, id=140, 1076.1003pt x 1438.173pt>
-File: ../images/boxplot_var_num.png Graphic file (type png)
-<use ../images/boxplot_var_num.png>
-Package pdftex.def Info: ../images/boxplot_var_num.png  used on input line 73.
-(pdftex.def)             Requested size: 452.9679pt x 605.36719pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{figure.2.1}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.89 
+      <../images/target_distribution.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 90--92
+
+ []
+
+
+Overfull \hbox (1.41554pt too wide) in paragraph at lines 102--104
+\T1/cmr/m/n/12 du do-maine fi-nan-cier. Des tech-niques comme le sur-échan-tillon-nage, le sous-échantillonnage
+ []
+
+[4
+pdfTeX warning (ext4): destination with the same identifier (name{figure.2.2}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.149   \item{
+               \textbf{Variables Qualitatives :}\newline] [5] [6]
+Underfull \hbox (badness 10000) in paragraph at lines 252--253
+
+ []
+
+[7
+pdfTeX warning (ext4): destination with the same identifier (name{figure.2.3}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.262 \chapter
+              {Data processing}]
+Chapitre 3.
+
+Overfull \hbox (10.78523pt too wide) in paragraph at lines 264--264
+[]\T1/cmr/bx/n/17.28 Traitement des va-leurs nulles/extrèmes/manquantes 
+ []
+
+<../images/plot_num_imputation_distrib.png, id=235, 1292.9103pt x 828.9369pt>
+File: ../images/plot_num_imputation_distrib.png Graphic file (type png)
+<use ../images/plot_num_imputation_distrib.png>
+Package pdftex.def Info: ../images/plot_num_imputation_distrib.png  used on input line 295.
+(pdftex.def)             Requested size: 452.9679pt x 290.41052pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[8
+
+] [9
+pdfTeX warning (ext4): destination with the same identifier (name{figure.3.1}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.312 
+       <../images/plot_num_imputation_distrib.png>]
+<../images/piechart_valeurs_manquantes_var_categorial.png, id=247, 1288.5741pt x 434.3427pt>
+File: ../images/piechart_valeurs_manquantes_var_categorial.png Graphic file (type png)
+<use ../images/piechart_valeurs_manquantes_var_categorial.png>
+Package pdftex.def Info: ../images/piechart_valeurs_manquantes_var_categorial.png  used on input line 314.
+(pdftex.def)             Requested size: 452.9679pt x 152.67834pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 319--326
+
+ []
+
+<../images/piechart_valeurs_manquantes_var_categorial_dropna.png, id=249, 1279.9017pt x 437.9562pt>
+File: ../images/piechart_valeurs_manquantes_var_categorial_dropna.png Graphic file (type png)
+<use ../images/piechart_valeurs_manquantes_var_categorial_dropna.png>
+Package pdftex.def Info: ../images/piechart_valeurs_manquantes_var_categorial_dropna.png  used on input line 328.
+(pdftex.def)             Requested size: 452.9679pt x 154.99773pt.
+[10
+pdfTeX warning (ext4): destination with the same identifier (name{figure.3.2}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.334 \chapter
+              {ModÃ©lisation}
+pdfTeX warning (ext4): destination with the same identifier (name{figure.3.3}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.334 \chapter
+              {ModÃ©lisation} <../images/piechart_valeurs_manquantes_var_categorial.png> <../images/piechart_valeurs_manquantes_var_categorial_dropna.png>]
+Chapitre 4.
+<../images/tab_corr_num_num.png, id=258, 602.7318pt x 539.1342pt>
+File: ../images/tab_corr_num_num.png Graphic file (type png)
+<use ../images/tab_corr_num_num.png>
+Package pdftex.def Info: ../images/tab_corr_num_num.png  used on input line 345.
+(pdftex.def)             Requested size: 362.37569pt x 324.14114pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 351--357
+
+ []
+
+[11
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{figure.4.1}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.357 
+       <../images/tab_corr_num_num.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 390--399
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 390--399
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 390--399
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 400--402
+
+ []
+
+<../images/tab_corr_num_num_after_1st_drop.png, id=269, 557.2017pt x 493.6041pt>
+File: ../images/tab_corr_num_num_after_1st_drop.png Graphic file (type png)
+<use ../images/tab_corr_num_num_after_1st_drop.png>
+Package pdftex.def Info: ../images/tab_corr_num_num_after_1st_drop.png  used on input line 405.
+(pdftex.def)             Requested size: 362.37569pt x 321.0196pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[4] [5 <../images/boxplot_var_num.png>]
-Chapitre 3.
-
-Overfull \hbox (10.78523pt too wide) in paragraph at lines 85--85
-[]\T1/cmr/bx/n/17.28 Traitement des va-leurs nulles/extrèmes/manquantes 
- []
-
-<../images/piechart_valeurs_manquantes_var_categorial.png, id=155, 1288.5741pt x 434.3427pt>
-File: ../images/piechart_valeurs_manquantes_var_categorial.png Graphic file (type png)
-<use ../images/piechart_valeurs_manquantes_var_categorial.png>
-Package pdftex.def Info: ../images/piechart_valeurs_manquantes_var_categorial.png  used on input line 102.
-(pdftex.def)             Requested size: 452.9679pt x 152.67834pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 107--115
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 107--115
-
- []
-
-[6
-
- <../images/piechart_valeurs_manquantes_var_categorial.png>]
-<../images/piechart_valeurs_manquantes_var_categorial_dropna.png, id=166, 1279.9017pt x 437.9562pt>
-File: ../images/piechart_valeurs_manquantes_var_categorial_dropna.png Graphic file (type png)
-<use ../images/piechart_valeurs_manquantes_var_categorial_dropna.png>
-Package pdftex.def Info: ../images/piechart_valeurs_manquantes_var_categorial_dropna.png  used on input line 117.
-(pdftex.def)             Requested size: 452.9679pt x 154.99773pt.
- [7 <../images/piechart_valeurs_manquantes_var_categorial_dropna.png>]
-Chapitre 4.
-File: ../images/piechart_valeurs_manquantes_var_categorial_dropna.png Graphic file (type png)
-<use ../images/piechart_valeurs_manquantes_var_categorial_dropna.png>
-Package pdftex.def Info: ../images/piechart_valeurs_manquantes_var_categorial_dropna.png  used on input line 130.
-(pdftex.def)             Requested size: 452.9679pt x 154.99773pt.
-[8
-
-]
-Chapitre 5.
-[9
-
-]
-Chapitre 6.
-[10
-
-]
-LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 156.
- (C:\Users\lngeth\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.fd
-File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
-) [11
-
-]
-Annexe A.
 [12
+pdfTeX warning (ext4): destination with the same identifier (name{figure.4.2}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.441 \clearpage
+                ] [13
+pdfTeX warning (ext4): destination with the same identifier (name{figure.4.3}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.441 \clearpage
+                
+pdfTeX warning (ext4): destination with the same identifier (name{figure.4.4}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.441 \clearpage
+                 <../images/tab_corr_num_num_after_1st_drop.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 449--450
 
-] (rapport.aux)
+ []
+
+<../images/tab_corr_num_num_intermediary.png, id=285, 557.2017pt x 493.6041pt>
+File: ../images/tab_corr_num_num_intermediary.png Graphic file (type png)
+<use ../images/tab_corr_num_num_intermediary.png>
+Package pdftex.def Info: ../images/tab_corr_num_num_intermediary.png  used on input line 464.
+(pdftex.def)             Requested size: 362.37569pt x 321.0196pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 498--502
+
+ []
+
+[14
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{figure.4.5}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.502 
+       <../images/tab_corr_num_num_intermediary.png>]
+<../images/tab_corr_num_num_final.png, id=295, 557.2017pt x 493.6041pt>
+File: ../images/tab_corr_num_num_final.png Graphic file (type png)
+<use ../images/tab_corr_num_num_final.png>
+Package pdftex.def Info: ../images/tab_corr_num_num_final.png  used on input line 505.
+(pdftex.def)             Requested size: 362.37569pt x 321.0196pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[15
+pdfTeX warning (ext4): destination with the same identifier (name{figure.4.6}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.539 
+      
+pdfTeX warning (ext4): destination with the same identifier (name{figure.4.7}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.539 
+       <../images/tab_corr_num_num_final.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 543--545
+
+ []
+
+
+Overfull \hbox (10.77672pt too wide) in paragraph at lines 587--587
+[][]\T1/cmr/bx/n/12 ANOVA : REA-SON <-- LOAN, MORT-DUE, YOJ, DE-ROG, DE-LINQ, CLAGE,
+ []
+
+[16
+pdfTeX warning (ext4): destination with the same identifier (name{figure.4.8}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.613 \end{figure}
+                  
+pdfTeX warning (ext4): destination with the same identifier (name{figure.4.9}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.613 \end{figure}
+                  ] [17
+pdfTeX warning (ext4): destination with the same identifier (name{figure.4.10}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.660 \bigbreak
+               
+pdfTeX warning (ext4): destination with the same identifier (name{figure.4.11}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.660 \bigbreak
+               ]
+Underfull \hbox (badness 10000) in paragraph at lines 672--673
+
+ []
+
+<../images/plot_khi2_bad_vs_reason.png, id=321, 854.9541pt x 422.0568pt>
+File: ../images/plot_khi2_bad_vs_reason.png Graphic file (type png)
+<use ../images/plot_khi2_bad_vs_reason.png>
+Package pdftex.def Info: ../images/plot_khi2_bad_vs_reason.png  used on input line 675.
+(pdftex.def)             Requested size: 452.9679pt x 223.61174pt.
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 680.
+(C:\Users\lngeth\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.fd
+File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
+)
+Underfull \hbox (badness 10000) in paragraph at lines 685--686
+
+ []
+
+<../images/plot_khi2_bad_vs_job.png, id=323, 854.9541pt x 422.0568pt>
+File: ../images/plot_khi2_bad_vs_job.png Graphic file (type png)
+<use ../images/plot_khi2_bad_vs_job.png>
+Package pdftex.def Info: ../images/plot_khi2_bad_vs_job.png  used on input line 688.
+(pdftex.def)             Requested size: 452.9679pt x 223.61174pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[18
+pdfTeX warning (ext4): destination with the same identifier (name{figure.4.12}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.694 
+       <../images/plot_khi2_bad_vs_reason.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 700--701
+
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[19
+pdfTeX warning (ext4): destination with the same identifier (name{figure.4.13}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.747 
+      
+pdfTeX warning (ext4): destination with the same identifier (name{figure.4.14}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.747 
+      
+pdfTeX warning (ext4): destination with the same identifier (name{figure.4.15}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.747 
+       <../images/plot_khi2_bad_vs_job.png>] [20
+pdfTeX warning (ext4): destination with the same identifier (name{figure.4.16}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.766 
+      ] [21] [22
+pdfTeX warning (ext4): destination with the same identifier (name{table.4.1}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.842   \item{
+               \textbf{Naive Bayes} \newline] [23]
+Chapitre 5.
+[24
+
+] [25] [26] [27
+pdfTeX warning (ext4): destination with the same identifier (name{table.5.1}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.950 
+      ] [28]
+<../images/plot_dist_num_data.png, id=399, 1076.1003pt x 1438.173pt>
+File: ../images/plot_dist_num_data.png Graphic file (type png)
+<use ../images/plot_dist_num_data.png>
+Package pdftex.def Info: ../images/plot_dist_num_data.png  used on input line 971.
+(pdftex.def)             Requested size: 452.9679pt x 605.36719pt.
+<../images/barplot_job_by_bad.png, id=400, 714.7503pt x 426.393pt>
+File: ../images/barplot_job_by_bad.png Graphic file (type png)
+<use ../images/barplot_job_by_bad.png>
+Package pdftex.def Info: ../images/barplot_job_by_bad.png  used on input line 977.
+(pdftex.def)             Requested size: 452.9679pt x 270.22954pt.
+ [29 <../images/plot_dist_num_data.png>]
+<../images/barplot_reason_by_bad.png, id=406, 714.7503pt x 426.393pt>
+File: ../images/barplot_reason_by_bad.png Graphic file (type png)
+<use ../images/barplot_reason_by_bad.png>
+Package pdftex.def Info: ../images/barplot_reason_by_bad.png  used on input line 983.
+(pdftex.def)             Requested size: 452.9679pt x 270.22954pt.
+<../images/boxplot_var_num.png, id=407, 1076.1003pt x 1438.173pt>
+File: ../images/boxplot_var_num.png Graphic file (type png)
+<use ../images/boxplot_var_num.png>
+Package pdftex.def Info: ../images/boxplot_var_num.png  used on input line 990.
+(pdftex.def)             Requested size: 452.9679pt x 605.36719pt.
+ [30 <../images/barplot_job_by_bad.png> <../images/barplot_reason_by_bad.png>] [31 <../images/boxplot_var_num.png>] (rapport.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
  ***********
+
+
+LaTeX Warning: There were multiply-defined labels.
+
 Package rerunfilecheck Info: File `rapport.out' has not changed.
-(rerunfilecheck)             Checksum: 4D48ED321DEAEB334DC1D9EFE93B9176;3868.
+(rerunfilecheck)             Checksum: 9E9F9D1D3565B7B4F440593B07F6D302;7062.
  ) 
 Here is how much of TeX's memory you used:
- 11052 strings out of 475248
- 177920 string characters out of 5757340
- 1925785 words of memory out of 5000000
- 32401 multiletter control sequences out of 15000+600000
- 571114 words of font info for 61 fonts, out of 8000000 for 9000
+ 11868 strings out of 475248
+ 192380 string characters out of 5757340
+ 1932785 words of memory out of 5000000
+ 33136 multiletter control sequences out of 15000+600000
+ 571451 words of font info for 62 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,6n,79p,481b,464s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\lngeth\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1200.pk> <C:\Users\lngeth\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1200.pk> <C:\Users\lngeth\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\lngeth\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\eccc1200.pk> <C:\Users\lngeth\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1728.pk> <C:\Users\lngeth\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\lngeth\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\lngeth\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk> <C:\Users\lngeth\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\lngeth\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2074.pk>
-Output written on rapport.pdf (13 pages, 416188 bytes).
+ 75i,10n,79p,839b,549s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\lngeth\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1200.pk> <C:\Users\lngeth\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk> <C:\Users\lngeth\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1200.pk> <C:\Users\lngeth\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\lngeth\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\eccc1200.pk> <C:\Users\lngeth\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1728.pk> <C:\Users\lngeth\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\lngeth\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\lngeth\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk> <C:\Users\lngeth\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\lngeth\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2074.pk><C:/Users/lngeth/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/lngeth/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/lngeth/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/lngeth/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/lngeth/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on rapport.pdf (32 pages, 1318548 bytes).
 PDF statistics:
- 552 PDF objects out of 1000 (max. 8388607)
- 47 named destinations out of 1000 (max. 500000)
- 194 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 921 PDF objects out of 1000 (max. 8388607)
+ 110 named destinations out of 1000 (max. 500000)
+ 340 words of extra memory for PDF output out of 10000 (max. 10000000)
 

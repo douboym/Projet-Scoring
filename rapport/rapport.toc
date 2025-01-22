@@ -4,23 +4,47 @@
 \contentsline {section}{\numberline {2.1}Description des données}{3}{section.2.1}%
 \contentsline {subsubsection}{Variable dépendante (Target)}{3}{section*.2}%
 \contentsline {subsubsection}{Variables explicatives}{4}{section*.3}%
-\contentsline {section}{\numberline {2.2}Visualisation}{4}{section.2.2}%
-\contentsline {subsubsection}{Variables numériques}{4}{section*.4}%
-\contentsline {subsubsection}{Variables explicatives}{4}{section*.5}%
-\contentsline {section}{\numberline {2.3}Outliers}{4}{section.2.3}%
-\contentsline {section}{\numberline {2.4}NaN values}{4}{section.2.4}%
-\contentsline {chapter}{\numberline {3}Data processing}{6}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Traitement des valeurs nulles/extrèmes/manquantes}{6}{section.3.1}%
-\contentsline {subsection}{\numberline {3.1.1}Variables numériques : Imputation par valeur calculée}{6}{subsection.3.1.1}%
-\contentsline {subsection}{\numberline {3.1.2}Variables catégorielles : Imputation de données}{6}{subsection.3.1.2}%
-\contentsline {chapter}{\numberline {4}Modélisation}{8}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Sélection des variables}{8}{section.4.1}%
-\contentsline {subsection}{\numberline {4.1.1}Corrélation entre variable numérique-numérique}{8}{subsection.4.1.1}%
-\contentsline {subsection}{\numberline {4.1.2}Corrélation entre variable catégorielle-numérique}{8}{subsection.4.1.2}%
-\contentsline {subsection}{\numberline {4.1.3}Corrélation entre variable catégorielle-catégorielle}{8}{subsection.4.1.3}%
-\contentsline {section}{\numberline {4.2}Modèles de classification}{8}{section.4.2}%
-\contentsline {subsection}{\numberline {4.2.1}Métriques de performances}{8}{subsection.4.2.1}%
-\contentsline {subsection}{\numberline {4.2.2}Modèles choisis}{8}{subsection.4.2.2}%
-\contentsline {chapter}{\numberline {5}Résultats}{9}{chapter.5}%
-\contentsline {chapter}{\numberline {6}Conclusion}{10}{chapter.6}%
-\contentsline {chapter}{\numberline {A}Annexe A}{12}{appendix.A}%
+\contentsline {section}{\numberline {2.2}Visualisation}{5}{section.2.2}%
+\contentsline {subsubsection}{Variables numériques}{5}{section*.4}%
+\contentsline {subsubsection}{Boxplot et Outliers}{6}{section*.5}%
+\contentsline {subsubsection}{Variables catégorielles}{7}{section*.6}%
+\contentsline {section}{\numberline {2.3}NaN values}{7}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Variables numériques}{7}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Variables catégorielles}{7}{subsection.2.3.2}%
+\contentsline {chapter}{\numberline {3}Data processing}{8}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Traitement des valeurs nulles/extrèmes/manquantes}{8}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Variables numériques : Imputation par valeur calculée}{8}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}Variables catégorielles : Imputation de données}{9}{subsection.3.1.2}%
+\contentsline {chapter}{\numberline {4}Modélisation}{11}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Sélection des variables}{11}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Corrélation entre variable numérique-numérique}{11}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}Corrélation entre variable catégorielle-numérique}{16}{subsection.4.1.2}%
+\contentsline {subsubsection}{ANOVA: BAD <-- LOAN, MORTDUE, YOJ, DEROG, DELINQ, CLAGE, NINQ}{16}{section*.7}%
+\contentsline {subsubsection}{ANOVA: REASON <-- LOAN, MORTDUE, YOJ, DEROG, DELINQ, CLAGE, NINQ }{17}{section*.8}%
+\contentsline {subsubsection}{ANOVA: JOB <-- LOAN, MORTDUE, YOJ, DEROG, DELINQ, CLAGE, NINQ }{17}{section*.9}%
+\contentsline {subsection}{\numberline {4.1.3}Corrélation entre variable catégorielle-catégorielle}{17}{subsection.4.1.3}%
+\contentsline {subsubsection}{Khi 2 entre {\color {teal} BAD} et {\color {teal} REASON}}{18}{section*.10}%
+\contentsline {subsubsection}{Khi 2 entre {\color {teal} BAD} et {\color {teal} JOB}}{18}{section*.11}%
+\contentsline {section}{\numberline {4.2}Modélisation}{21}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Métriques de performances}{21}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}Dataset}{22}{subsection.4.2.2}%
+\contentsline {subsubsection}{Les données brutes (Raw Data)}{22}{section*.12}%
+\contentsline {subsubsection}{Les données transformées (Processed Data)}{22}{section*.13}%
+\contentsline {subsection}{\numberline {4.2.3}Balancement des classes}{22}{subsection.4.2.3}%
+\contentsline {subsection}{\numberline {4.2.4}Baseline Modeling (Benchmark) : KNN et Naive Bayes}{22}{subsection.4.2.4}%
+\contentsline {subsubsection}{Résultats des modèles}{22}{section*.14}%
+\contentsline {chapter}{\numberline {5}Classifications, résultats et conclusion}{24}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Approche Générale de la Modélisation}{24}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Algorithmes de Modélisation}{24}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}Random Forest}{25}{subsection.5.2.1}%
+\contentsline {subsubsection}{Résultats et Analyse}{25}{section*.15}%
+\contentsline {subsection}{\numberline {5.2.2}Régression Logistique}{25}{subsection.5.2.2}%
+\contentsline {subsection}{\numberline {5.2.3}Support Vector Machines}{26}{subsection.5.2.3}%
+\contentsline {subsubsection}{Performances sur les Données Transformées et Brutes}{26}{section*.16}%
+\contentsline {subsection}{\numberline {5.2.4}Gradient Boosting}{26}{subsection.5.2.4}%
+\contentsline {subsubsection}{Analyse des Résultats}{26}{section*.17}%
+\contentsline {section}{\numberline {5.3}Tableau des résultats}{27}{section.5.3}%
+\contentsline {section}{\numberline {.1}Annexe : Distribution des variables numériques}{29}{section.Alph0.1}%
+\contentsline {section}{\numberline {.2}Annexe : Barplot de JOB par rapport à BAD}{30}{section.Alph0.2}%
+\contentsline {section}{\numberline {.3}Annexe : Barplot de REASON par rapport à BAD}{30}{section.Alph0.3}%
+\contentsline {section}{\numberline {.4}Annexe : Boxplot des variables numériques par rapport à BAD}{31}{section.Alph0.4}%

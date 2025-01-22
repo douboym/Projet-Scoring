@@ -31,44 +31,104 @@
 \@writefile{lof}{\contentsline {figure}{\numberline {2.1}{\ignorespaces Distribution de la variable Target "BAD"}}{3}{figure.2.1}\protected@file@percent }
 \newlabel{fig:dis_target}{{2.1}{3}{Distribution de la variable Target "BAD"}{figure.2.1}{}}
 \@writefile{toc}{\contentsline {subsubsection}{Variables explicatives}{4}{section*.3}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {2.2}Visualisation}{4}{section.2.2}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsubsection}{Variables numériques}{4}{section*.4}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsubsection}{Variables explicatives}{4}{section*.5}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {2.3}Outliers}{4}{section.2.3}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {2.4}NaN values}{4}{section.2.4}\protected@file@percent }
-\@writefile{lof}{\contentsline {figure}{\numberline {2.2}{\ignorespaces Boxplot des variables numériques par rapport à BAD}}{5}{figure.2.2}\protected@file@percent }
-\newlabel{fig:boxplot_var_num}{{2.2}{5}{Boxplot des variables numériques par rapport à BAD}{figure.2.2}{}}
-\@writefile{toc}{\contentsline {chapter}{\numberline {3}Data processing}{6}{chapter.3}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {2.2}{\ignorespaces Tableau des descriptions des variables}}{4}{figure.2.2}\protected@file@percent }
+\newlabel{fig:tab_vif_num_num}{{2.2}{4}{Tableau des descriptions des variables}{figure.2.2}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {2.2}Visualisation}{5}{section.2.2}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{Variables numériques}{5}{section*.4}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{Boxplot et Outliers}{6}{section*.5}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{Variables catégorielles}{7}{section*.6}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {2.3}NaN values}{7}{section.2.3}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.3.1}Variables numériques}{7}{subsection.2.3.1}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {2.3}{\ignorespaces Tableau des VIF des variables numériques après suppression de "VALUE"}}{7}{figure.2.3}\protected@file@percent }
+\newlabel{fig:tab_nan_count_num_var}{{2.3}{7}{Tableau des VIF des variables numériques après suppression de "VALUE"}{figure.2.3}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.3.2}Variables catégorielles}{7}{subsection.2.3.2}\protected@file@percent }
+\@writefile{toc}{\contentsline {chapter}{\numberline {3}Data processing}{8}{chapter.3}\protected@file@percent }
 \@writefile{lof}{\addvspace {10\p@ }}
 \@writefile{lot}{\addvspace {10\p@ }}
-\@writefile{toc}{\contentsline {section}{\numberline {3.1}Traitement des valeurs nulles/extrèmes/manquantes}{6}{section.3.1}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {3.1.1}Variables numériques : Imputation par valeur calculée}{6}{subsection.3.1.1}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {3.1.2}Variables catégorielles : Imputation de données}{6}{subsection.3.1.2}\protected@file@percent }
-\@writefile{lof}{\contentsline {figure}{\numberline {3.1}{\ignorespaces Distribution des valeurs manquantes dans les variables catégorielles}}{6}{figure.3.1}\protected@file@percent }
-\newlabel{fig:dist_missing_values_cat}{{3.1}{6}{Distribution des valeurs manquantes dans les variables catégorielles}{figure.3.1}{}}
-\@writefile{lof}{\contentsline {figure}{\numberline {3.2}{\ignorespaces Distribution des valeurs manquantes dans les variables catégorielles après suppression des observations avec NaN}}{7}{figure.3.2}\protected@file@percent }
-\newlabel{fig:dist_missing_values_cat_dropna}{{3.2}{7}{Distribution des valeurs manquantes dans les variables catégorielles après suppression des observations avec NaN}{figure.3.2}{}}
-\@writefile{toc}{\contentsline {chapter}{\numberline {4}Modélisation}{8}{chapter.4}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {3.1}Traitement des valeurs nulles/extrèmes/manquantes}{8}{section.3.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.1.1}Variables numériques : Imputation par valeur calculée}{8}{subsection.3.1.1}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {3.1}{\ignorespaces Distribution des variables numériques après différentes techniques d'imputations}}{9}{figure.3.1}\protected@file@percent }
+\newlabel{fig:plot_num_imputation_distrib}{{3.1}{9}{Distribution des variables numériques après différentes techniques d'imputations}{figure.3.1}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.1.2}Variables catégorielles : Imputation de données}{9}{subsection.3.1.2}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {3.2}{\ignorespaces Distribution des valeurs manquantes dans les variables catégorielles}}{10}{figure.3.2}\protected@file@percent }
+\newlabel{fig:dist_missing_values_cat}{{3.2}{10}{Distribution des valeurs manquantes dans les variables catégorielles}{figure.3.2}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.3}{\ignorespaces Distribution des valeurs manquantes dans les variables catégorielles après suppression des observations avec NaN}}{10}{figure.3.3}\protected@file@percent }
+\newlabel{fig:dist_missing_values_cat_dropna}{{3.3}{10}{Distribution des valeurs manquantes dans les variables catégorielles après suppression des observations avec NaN}{figure.3.3}{}}
+\@writefile{toc}{\contentsline {chapter}{\numberline {4}Modélisation}{11}{chapter.4}\protected@file@percent }
 \@writefile{lof}{\addvspace {10\p@ }}
 \@writefile{lot}{\addvspace {10\p@ }}
-\@writefile{toc}{\contentsline {section}{\numberline {4.1}Sélection des variables}{8}{section.4.1}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {4.1.1}Corrélation entre variable numérique-numérique}{8}{subsection.4.1.1}\protected@file@percent }
-\@writefile{lof}{\contentsline {figure}{\numberline {4.1}{\ignorespaces Distribution des valeurs manquantes dans les variables catégorielles après suppression des observations avec NaN}}{8}{figure.4.1}\protected@file@percent }
-\newlabel{fig:}{{4.1}{8}{Distribution des valeurs manquantes dans les variables catégorielles après suppression des observations avec NaN}{figure.4.1}{}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {4.1.2}Corrélation entre variable catégorielle-numérique}{8}{subsection.4.1.2}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {4.1.3}Corrélation entre variable catégorielle-catégorielle}{8}{subsection.4.1.3}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {4.2}Modèles de classification}{8}{section.4.2}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {4.2.1}Métriques de performances}{8}{subsection.4.2.1}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {4.2.2}Modèles choisis}{8}{subsection.4.2.2}\protected@file@percent }
-\@writefile{toc}{\contentsline {chapter}{\numberline {5}Résultats}{9}{chapter.5}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {4.1}Sélection des variables}{11}{section.4.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.1.1}Corrélation entre variable numérique-numérique}{11}{subsection.4.1.1}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {4.1}{\ignorespaces Tableau de corrélation des variable numérique}}{11}{figure.4.1}\protected@file@percent }
+\newlabel{fig:tab_corr_num_num}{{4.1}{11}{Tableau de corrélation des variable numérique}{figure.4.1}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.2}{\ignorespaces Tableau des VIF des variables numériques}}{12}{figure.4.2}\protected@file@percent }
+\newlabel{fig:tab_vif_num_num}{{4.2}{12}{Tableau des VIF des variables numériques}{figure.4.2}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.3}{\ignorespaces Tableau de corrélation des variable numérique après suppression de "VALUE"}}{13}{figure.4.3}\protected@file@percent }
+\newlabel{fig:tab_corr_num_num_after_1st_drop}{{4.3}{13}{Tableau de corrélation des variable numérique après suppression de "VALUE"}{figure.4.3}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.4}{\ignorespaces Tableau des VIF des variables numériques après suppression de "VALUE"}}{13}{figure.4.4}\protected@file@percent }
+\newlabel{fig:tab_vif_num_num_after_1st_drop}{{4.4}{13}{Tableau des VIF des variables numériques après suppression de "VALUE"}{figure.4.4}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.5}{\ignorespaces Tableau de corrélation des variable numérique après suppression de "DEBTINC"}}{14}{figure.4.5}\protected@file@percent }
+\newlabel{fig:tab_corr_num_num_intermediary}{{4.5}{14}{Tableau de corrélation des variable numérique après suppression de "DEBTINC"}{figure.4.5}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.6}{\ignorespaces Tableau des VIF des variables numériques après suppression de "DEBTINC"}}{15}{figure.4.6}\protected@file@percent }
+\newlabel{fig:tab_vif_num_num_intermediary}{{4.6}{15}{Tableau des VIF des variables numériques après suppression de "DEBTINC"}{figure.4.6}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.7}{\ignorespaces Tableau de corrélation des variable numérique final}}{15}{figure.4.7}\protected@file@percent }
+\newlabel{fig:tab_corr_num_num_final}{{4.7}{15}{Tableau de corrélation des variable numérique final}{figure.4.7}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.8}{\ignorespaces Tableau des VIF des variables numériques final}}{16}{figure.4.8}\protected@file@percent }
+\newlabel{fig:tab_vif_num_num_final}{{4.8}{16}{Tableau des VIF des variables numériques final}{figure.4.8}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.1.2}Corrélation entre variable catégorielle-numérique}{16}{subsection.4.1.2}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{ANOVA: BAD <-- LOAN, MORTDUE, YOJ, DEROG, DELINQ, CLAGE, NINQ}{16}{section*.7}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {4.9}{\ignorespaces ANOVA des variables explicatives par rapport à "BAD"}}{16}{figure.4.9}\protected@file@percent }
+\newlabel{fig:anova_bad_cat_on_nums}{{4.9}{16}{ANOVA des variables explicatives par rapport à "BAD"}{figure.4.9}{}}
+\@writefile{toc}{\contentsline {subsubsection}{ANOVA: REASON <-- LOAN, MORTDUE, YOJ, DEROG, DELINQ, CLAGE, NINQ }{17}{section*.8}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {4.10}{\ignorespaces ANOVA des variables explicatives par rapport à "REASON"}}{17}{figure.4.10}\protected@file@percent }
+\newlabel{fig:anova_reason_cat_on_nums}{{4.10}{17}{ANOVA des variables explicatives par rapport à "REASON"}{figure.4.10}{}}
+\@writefile{toc}{\contentsline {subsubsection}{ANOVA: JOB <-- LOAN, MORTDUE, YOJ, DEROG, DELINQ, CLAGE, NINQ }{17}{section*.9}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {4.11}{\ignorespaces ANOVA des variables explicatives par rapport à "JOB"}}{17}{figure.4.11}\protected@file@percent }
+\newlabel{fig:anova_job_cat_on_nums}{{4.11}{17}{ANOVA des variables explicatives par rapport à "JOB"}{figure.4.11}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.1.3}Corrélation entre variable catégorielle-catégorielle}{17}{subsection.4.1.3}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{Khi 2 entre {\color  {teal} BAD} et {\color  {teal} REASON}}{18}{section*.10}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {4.12}{\ignorespaces Plot distribution des distributions observés vs attendues avec test du Khi 2, de BAD et REASON}}{18}{figure.4.12}\protected@file@percent }
+\newlabel{fig:plot_khi2_bad_vs_reason}{{4.12}{18}{Plot distribution des distributions observés vs attendues avec test du Khi 2, de BAD et REASON}{figure.4.12}{}}
+\@writefile{toc}{\contentsline {subsubsection}{Khi 2 entre {\color  {teal} BAD} et {\color  {teal} JOB}}{18}{section*.11}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {4.13}{\ignorespaces Plot distribution des distributions observés vs attendues avec test du Khi 2, de BAD et JOB}}{19}{figure.4.13}\protected@file@percent }
+\newlabel{fig:plot_khi2_bad_vs_job}{{4.13}{19}{Plot distribution des distributions observés vs attendues avec test du Khi 2, de BAD et JOB}{figure.4.13}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.14}{\ignorespaces Tableau des effectifs attendus entre \texttt  {REASON} et les différentes catégories professionnelles.}}{19}{figure.4.14}\protected@file@percent }
+\newlabel{fig:table_khi2_reason_vs_job}{{4.14}{19}{Tableau des effectifs attendus entre \texttt {REASON} et les différentes catégories professionnelles}{figure.4.14}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.15}{\ignorespaces Tableau des effectifs observés entre \texttt  {JOB} et les différentes catégories professionnelles.}}{19}{figure.4.15}\protected@file@percent }
+\newlabel{fig:table_khi2_reason_vs_job}{{4.15}{19}{Tableau des effectifs observés entre \texttt {JOB} et les différentes catégories professionnelles}{figure.4.15}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.16}{\ignorespaces Résultats du test de Khi².}}{20}{figure.4.16}\protected@file@percent }
+\newlabel{fig:table_khi2_results_reason_vs_job}{{4.16}{20}{Résultats du test de Khi²}{figure.4.16}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {4.2}Modélisation}{21}{section.4.2}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2.1}Métriques de performances}{21}{subsection.4.2.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2.2}Dataset}{22}{subsection.4.2.2}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{Les données brutes (Raw Data)}{22}{section*.12}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{Les données transformées (Processed Data)}{22}{section*.13}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2.3}Balancement des classes}{22}{subsection.4.2.3}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2.4}Baseline Modeling (Benchmark) : KNN et Naive Bayes}{22}{subsection.4.2.4}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {4.1}{\ignorespaces Résultats des modèles de base : KNN et Naive Bayes}}{22}{table.4.1}\protected@file@percent }
+\newlabel{table:benchmark_model}{{4.1}{22}{Résultats des modèles de base : KNN et Naive Bayes}{table.4.1}{}}
+\@writefile{toc}{\contentsline {subsubsection}{Résultats des modèles}{22}{section*.14}\protected@file@percent }
+\@writefile{toc}{\contentsline {chapter}{\numberline {5}Classifications, résultats et conclusion}{24}{chapter.5}\protected@file@percent }
 \@writefile{lof}{\addvspace {10\p@ }}
 \@writefile{lot}{\addvspace {10\p@ }}
-\@writefile{toc}{\contentsline {chapter}{\numberline {6}Conclusion}{10}{chapter.6}\protected@file@percent }
-\@writefile{lof}{\addvspace {10\p@ }}
-\@writefile{lot}{\addvspace {10\p@ }}
-\bibcite{reference1}{1}
-\bibcite{reference2}{2}
-\@writefile{toc}{\contentsline {chapter}{\numberline {A}Annexe A}{12}{appendix.A}\protected@file@percent }
-\@writefile{lof}{\addvspace {10\p@ }}
-\@writefile{lot}{\addvspace {10\p@ }}
-\gdef \@abspage@last{13}
+\@writefile{toc}{\contentsline {section}{\numberline {5.1}Approche Générale de la Modélisation}{24}{section.5.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {5.2}Algorithmes de Modélisation}{24}{section.5.2}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.2.1}Random Forest}{25}{subsection.5.2.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{Résultats et Analyse}{25}{section*.15}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.2.2}Régression Logistique}{25}{subsection.5.2.2}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.2.3}Support Vector Machines}{26}{subsection.5.2.3}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{Performances sur les Données Transformées et Brutes}{26}{section*.16}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.2.4}Gradient Boosting}{26}{subsection.5.2.4}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{Analyse des Résultats}{26}{section*.17}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {5.3}Tableau des résultats}{27}{section.5.3}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {5.1}{\ignorespaces Résultats des modèles}}{27}{table.5.1}\protected@file@percent }
+\newlabel{tab:results_models}{{5.1}{27}{Résultats des modèles}{table.5.1}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {.1}Annexe : Distribution des variables numériques}{29}{section.Alph0.1}\protected@file@percent }
+\newlabel{fig:plot_dist_num_data}{{.1}{29}{Annexe : Distribution des variables numériques}{section.Alph0.1}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {.2}Annexe : Barplot de JOB par rapport à BAD}{30}{section.Alph0.2}\protected@file@percent }
+\newlabel{fig:barplot_job_by_bad}{{.2}{30}{Annexe : Barplot de JOB par rapport à BAD}{section.Alph0.2}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {.3}Annexe : Barplot de REASON par rapport à BAD}{30}{section.Alph0.3}\protected@file@percent }
+\newlabel{fig:barplot_reason_by_bad}{{.3}{30}{Annexe : Barplot de REASON par rapport à BAD}{section.Alph0.3}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {.4}Annexe : Boxplot des variables numériques par rapport à BAD}{31}{section.Alph0.4}\protected@file@percent }
+\newlabel{fig:boxplot_var_num}{{.4}{31}{Annexe : Boxplot des variables numériques par rapport à BAD}{section.Alph0.4}{}}
+\gdef \@abspage@last{32}
